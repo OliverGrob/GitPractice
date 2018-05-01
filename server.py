@@ -1,5 +1,9 @@
 
 
+def szorzo():
+    return "tree"
+
+
 def kivono():
     return "333"
 
