@@ -1,5 +1,9 @@
 
 
+def kivono():
+    return "333"
+
+
 def osszeado():
     return "23"
 
