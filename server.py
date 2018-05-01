@@ -3,6 +3,7 @@
 def main():
     print("Helloka")
     print("kaka")
+    print("szar")
     print("pisa")
     return None
 
