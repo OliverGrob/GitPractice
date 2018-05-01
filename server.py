@@ -1,5 +1,9 @@
 
 
+def osszeado():
+    return "23"
+
+
 def main():
     print("Helloka")
     print("kaka")
